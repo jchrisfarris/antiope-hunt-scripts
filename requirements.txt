@@ -1,3 +1,5 @@
 requests
 requests_aws4auth
 elasticsearch
+openpyxl <= 2.5.0
+antiope
